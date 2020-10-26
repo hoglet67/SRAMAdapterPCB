@@ -208,4 +208,19 @@ Text Label 5100 4100 2    50   ~ 0
 A13
 Text Label 5100 3700 2    50   ~ 0
 A9
+Text Label 4600 1550 0    50   ~ 0
+GND
+Text Label 4600 1650 0    50   ~ 0
+GND
+$Comp
+L Connector:Conn_01x02_Male J3
+U 1 1 5F9790CB
+P 4400 1550
+F 0 "J3" H 4508 1731 50  0000 C CNN
+F 1 "Conn_01x02_Male" H 4508 1640 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4400 1550 50  0001 C CNN
+F 3 "~" H 4400 1550 50  0001 C CNN
+	1    4400 1550
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
