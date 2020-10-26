@@ -19,7 +19,7 @@ U 1 1 5F92BC33
 P 2650 3650
 F 0 "J1" H 2650 2650 50  0000 C CNN
 F 1 "Conn_01x16_Male" H 2650 2750 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" H 2650 3650 50  0001 C CNN
+F 2 "footprints:PinHeader_1x16_P2.54mm_Vertical" H 2650 3650 50  0001 C CNN
 F 3 "~" H 2650 3650 50  0001 C CNN
 	1    2650 3650
 	1    0    0    -1  
@@ -68,7 +68,7 @@ U 1 1 5F92E19A
 P 3850 3650
 F 0 "J2" H 3900 2650 50  0000 R CNN
 F 1 "Conn_01x16_Male" H 4200 2750 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" H 3850 3650 50  0001 C CNN
+F 2 "footprints:PinHeader_1x16_P2.54mm_VerticalAllRound" H 3850 3650 50  0001 C CNN
 F 3 "~" H 3850 3650 50  0001 C CNN
 	1    3850 3650
 	-1   0    0    -1  
